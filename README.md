@@ -4,7 +4,7 @@
 
 
 ## Build 
-Build each test case together using the given make file using the `make` command.
+Build each test case together using the given Makefile using the `make` command.
 
 ## Usage
 
